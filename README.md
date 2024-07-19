@@ -1,15 +1,7 @@
 # 23-S1-A2
 Mountain Climber Assignment
 
-## Getting Started
-
-Instructions are extremely similar to those of A1:
-
-* Get a virtual environment up and running
-* `python -m pip install -r requirements.txt` (Replacing python with python3 or py - whatever works)
-
 ## Claire's Takeaways
-First pair programming project.
 
 Theory concepts applied in this assignment learnt throughout the unit:
 - time complexities
@@ -17,6 +9,13 @@ Theory concepts applied in this assignment learnt throughout the unit:
 - linked stack
 - binary search
 - merge sort
+
+## Getting Started
+
+Instructions are extremely similar to those of A1:
+
+* Get a virtual environment up and running
+* `python -m pip install -r requirements.txt` (Replacing python with python3 or py - whatever works)
 
 ## Running the GUI
 
