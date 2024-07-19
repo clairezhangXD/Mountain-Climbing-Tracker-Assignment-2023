@@ -12,6 +12,7 @@ Instructions are extremely similar to those of A1:
 First pair programming project.
 
 Theory concepts applied in this assignment learnt throughout the unit:
+- time complexities
 - hash table
 - linked stack
 - binary search
