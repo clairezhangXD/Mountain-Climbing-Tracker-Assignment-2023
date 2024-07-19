@@ -1,5 +1,5 @@
 # 23-S1-A2
-Mountain Climber Assignment
+Mountain Climber Assignment (2 member group)
 
 ## Claire's Takeaways
 
