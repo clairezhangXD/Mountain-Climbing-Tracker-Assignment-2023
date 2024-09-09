@@ -1,9 +1,9 @@
-# 23-S1-A2
-Mountain Climber Assignment (2 member group)
+# Project 2 S1 2023
+Mountain Climber (2 member group)
 
 ## Claire's Takeaways
 
-Theory concepts applied in this assignment learnt throughout the unit:
+Theory concepts applied/learned:
 - time complexities
 - hash table
 - linked stack
